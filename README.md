@@ -1,5 +1,5 @@
 # podman-workshop
-Podman workshop: download and modify a container, add to systemd
+Podman workshop on RHEL 8.1: download and modify a container, add to systemd
 
 ## Using buildah, podman, and skopeo
 ```bash
